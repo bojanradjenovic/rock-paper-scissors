@@ -1,4 +1,4 @@
-# Ross (Rock pOper Scissors)
+# Ross (Rock pOper ScissorS)
 
 This was our submission for Hack Club Scrapyard (March 1-2, 2025). This includes all the code and pictures to create a rock, paper, scissors robot.
 
