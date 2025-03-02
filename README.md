@@ -2,7 +2,7 @@
 
 This was our submission for Hack Club Scrapyard (March 1-2, 2025). This includes all the code and pictures to create a rock, paper, scissors robot!
 
-## Materials
+## Components
 - 3 Soda Cans (We used 2 Coke and a Celsius can for the most optimal build)
 - Raspberry Pi Pico
 - One servo
@@ -12,8 +12,16 @@ This was our submission for Hack Club Scrapyard (March 1-2, 2025). This includes
 - A bread board
 - Three Buttons
 
+## Dependancies
+
+- [Adafruit Character LCD](#)
+- [Adafruit MCP230xx](#)
+- [Adafruit Motor](#)
+- [Adafruit Motorkit](#)
+
 ## Instructions
 
 ### Microcontroller
 
 For this project, we used a [Raspberry Pi Pico 2](#) flashed with [CircuitPython](#). This may work with [MicroPython], however we failed multiple times while using it before switching to (the arguably inferior) circuitpython.
+After flashing it with such, you should be able to 
